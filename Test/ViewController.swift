@@ -10,6 +10,8 @@ import UIKit
 
 let test1 = 4
 let test5 = 9
+let test9 = 3
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
