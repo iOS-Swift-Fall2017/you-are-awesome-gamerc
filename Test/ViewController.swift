@@ -8,6 +8,8 @@
 
 import UIKit
 
+let test1 = 4
+let test5 = 9
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
